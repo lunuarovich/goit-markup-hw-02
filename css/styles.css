@@ -41,16 +41,8 @@ p {
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
-    color: #f4f4fd;
 }
 
-.link-logo:hover, .link-logo:focus {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    color: #404bbf;
-}
 .section1 {
     background-color: #2e2f42;
 }
