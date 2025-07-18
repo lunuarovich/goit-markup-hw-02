@@ -71,6 +71,10 @@ p {
 }
 
 .button {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
     background-color: #4d5ae5;
     color: #ffffff;
 }
