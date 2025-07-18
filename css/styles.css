@@ -1,6 +1,7 @@
 body {
-    font-family: "roboto", sans-serif;
-    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    background-color: #ffffff;
+    color: #434455;
 }
 h1 {
     font-weight: 700;
@@ -41,6 +42,7 @@ p {
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
+    color: #4d5ae5;
 }
 
 .section1 {
@@ -69,13 +71,7 @@ footer {
 }
 
 .webstudio {
-    color: #404bbf;;
-}
-
-.studio {
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: #2e2f42;
-}
-
-.stusio-footer {
-    color: #ffffff;
 }
