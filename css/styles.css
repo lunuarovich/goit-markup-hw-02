@@ -65,6 +65,15 @@ p {
     background-color: #2e2f42;
 }
 
+.strategy {
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.strategy-p {
+    letter-spacing: 0.02em;
+}
+
 .h-one {
     text-align: center;
     letter-spacing: 0.02em;
