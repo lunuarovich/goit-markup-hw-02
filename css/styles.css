@@ -65,12 +65,12 @@ p {
     background-color: #2e2f42;
 }
 
-.strategy {
+.benefits-list {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.strategy-p {
+.benefits-p {
     letter-spacing: 0.02em;
 }
 
@@ -92,8 +92,15 @@ p {
     background-color: #404bbf;
 }
 
-.section3 {
+.section-three {
     background-color: #f4f4fd;
+}
+
+.our-team {
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 footer {
