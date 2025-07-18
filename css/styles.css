@@ -133,12 +133,17 @@ p {
     letter-spacing: 0.02em;
 }
 
-footer {
+.footer {
     background-color: #2e2f42;
 }
 
+.webstudio-footer {
+    color: #f4f4fd;
+}
+
 .p-footer {
-    color: #ffffff;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
 
 .webstudio {
