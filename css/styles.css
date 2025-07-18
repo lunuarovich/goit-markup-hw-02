@@ -32,10 +32,22 @@ p {
 .link {
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 500;
     color: #2e2f42;
 }
 
 .link:hover, .link:focus {
+    color: #404bbf;
+}
+
+.link-address {
+    line-height: 1.5;
+        letter-spacing: 0.02em;
+        font-weight: 500;
+        color: #434455;
+}
+
+.link-address:hover, .link-address:focus {
     color: #404bbf;
 }
 
@@ -76,4 +88,8 @@ footer {
 
 .webstudio {
     color: #2e2f42;
+}
+
+.address-list {
+    font-style: normal;
 }
