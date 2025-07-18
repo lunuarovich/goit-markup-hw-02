@@ -61,8 +61,13 @@ p {
     color: #4d5ae5;
 }
 
-.section1 {
+.section-one {
     background-color: #2e2f42;
+}
+
+.h-one {
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .button {
